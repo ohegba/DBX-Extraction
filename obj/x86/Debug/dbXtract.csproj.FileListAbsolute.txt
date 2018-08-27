@@ -1,0 +1,11 @@
+C:\Documents and Settings\Aliens Reborn\Local Settings\Application Data\Temporary Projects\dbXtract\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aliens Reborn\Local Settings\Application Data\Temporary Projects\dbXtract\bin\Debug\dbXtract.exe
+C:\Documents and Settings\Aliens Reborn\Local Settings\Application Data\Temporary Projects\dbXtract\bin\Debug\dbXtract.pdb
+C:\Documents and Settings\Aliens Reborn\Local Settings\Application Data\Temporary Projects\dbXtract\obj\x86\Debug\dbXtract.exe
+C:\Documents and Settings\Aliens Reborn\Local Settings\Application Data\Temporary Projects\dbXtract\obj\x86\Debug\dbXtract.pdb
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\dbXtract\dbXtract\obj\x86\Debug\dbXtract.exe
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\dbXtract\dbXtract\obj\x86\Debug\dbXtract.pdb
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\dbXtract\dbXtract\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\dbXtract\dbXtract\bin\Debug\dbXtract.exe
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\dbXtract\dbXtract\bin\Debug\dbXtract.pdb
+C:\Documents and Settings\Aliens Reborn\my documents\visual studio 2010\Projects\dbXtract\dbXtract\bin\Debug\dbXtract.exe.config
